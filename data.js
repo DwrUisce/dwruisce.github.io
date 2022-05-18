@@ -36,8 +36,8 @@ var APP_DATA = {
           "target": "2-cellar"
         },
         {
-          "yaw": -0.5800178679800592,
-          "pitch": -0.591656905155844,
+          "yaw": -0.5800178558518247,
+          "pitch": -0.591656910786984,
           "rotation": 0,
           "target": "1-tearoom"
         }
@@ -48,6 +48,12 @@ var APP_DATA = {
           "pitch": -0.3583773143335982,
           "title": "Welcome",
           "text": "<div>Welcome to a virtual tour of the heat recovery system at the Penrhyn Castle Tearooms. This system serves as a showcase of the potential to recover heat from the high temperature wastewater produced in commercial kitchens that usually just goes down the drain. Recovering this heat will save money by reducing fuel use and will also reduce the greenhouse gas emissions associated with heating water.&nbsp;&nbsp;</div><div><br></div><div>To start with the tour, please make your way into the tearooms by clicking on the ^ sign near the window above you and to your left.&nbsp;&nbsp;<br></div><div><br></div><div>This project is a collaboration between Bangor University, Trinity College Dublin, and the National Trust. It was made possible due to the support the ERDF Interreg Ireland-Wales Programme 2014-2020, through the Dŵr Uisce Project.</div>"
+        },
+        {
+          "yaw": 0.6493467962149406,
+          "pitch": 0.15691198254155125,
+          "title": "Coalyard",
+          "text": "Background on the Coalyard site and how it was used."
         }
       ]
     },
@@ -143,7 +149,7 @@ var APP_DATA = {
           "yaw": -0.058901937904453305,
           "pitch": -0.4551858366958328,
           "title": "Heat Exchanger",
-          "text": "<span data-contrast=\"auto\" style=\"font-size: 11pt; line-height: 19.425px; font-family: Calibri, &quot;Calibri_EmbeddedFont&quot;, &quot;Calibri_MSFontService&quot;, sans-serif;\" xml:lang=\"EN-US\" class=\"TextRun SCXW1634664 BCX2\" lang=\"EN-US\"><span class=\"NormalTextRun SCXW1634664 BCX2\"></span><span class=\"NormalTextRun SCXW1634664 BCX2\">The kitchen drain that was here h</span><span class=\"NormalTextRun SCXW1634664 BCX2\">as been</span><span class=\"NormalTextRun SCXW1634664 BCX2\"> replaced with an insulated copper heat exchanger which heats up clean cold water that is pumped through a series of small copper pipes coiled around a central large copper pipe, through which&nbsp;the drain water flows down. Only heat is transferred through the copper and heats up the cold water which is circulated from and back into the storage tank in the control room.</span></span><div><span data-contrast=\"auto\" style=\"font-size: 11pt; line-height: 19.425px; font-family: Calibri, &quot;Calibri_EmbeddedFont&quot;, &quot;Calibri_MSFontService&quot;, sans-serif;\" xml:lang=\"EN-US\" class=\"TextRun SCXW1634664 BCX2\" lang=\"EN-US\"><span class=\"NormalTextRun SCXW1634664 BCX2\"><br></span></span></div><div><span data-contrast=\"auto\" style=\"font-size: 11pt; line-height: 19.425px; font-family: Calibri, &quot;Calibri_EmbeddedFont&quot;, &quot;Calibri_MSFontService&quot;, sans-serif;\" xml:lang=\"EN-US\" class=\"TextRun SCXW1634664 BCX2\" lang=\"EN-US\"><span class=\"NormalTextRun SCXW1634664 BCX2\">Move around to continue the tour.</span></span></div>"
+          "text": "<font face=\"Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif\"><span style=\"font-size: 14.6667px;\">The kitchen drain that was here has been replaced with an insulated copper heat exchanger. This heats up clean cold water that is pumped&nbsp; upwards through an outer copper pipe within which is another central large copper pipe, through which the drain water flows down. Only heat is transferred through the copper and heats up the cold water which is circulated from and back into the storage tank in the control room.</span></font><br><div><span data-contrast=\"auto\" style=\"font-size: 11pt; line-height: 19.425px; font-family: Calibri, &quot;Calibri_EmbeddedFont&quot;, &quot;Calibri_MSFontService&quot;, sans-serif;\" xml:lang=\"EN-US\" class=\"TextRun SCXW1634664 BCX2\" lang=\"EN-US\"><span class=\"NormalTextRun SCXW1634664 BCX2\"><br></span></span></div><div><span data-contrast=\"auto\" style=\"font-size: 11pt; line-height: 19.425px; font-family: Calibri, &quot;Calibri_EmbeddedFont&quot;, &quot;Calibri_MSFontService&quot;, sans-serif;\" xml:lang=\"EN-US\" class=\"TextRun SCXW1634664 BCX2\" lang=\"EN-US\"><span class=\"NormalTextRun SCXW1634664 BCX2\">Move around to continue the tour.</span></span></div>"
         },
         {
           "yaw": -2.6894818692883344,
@@ -197,8 +203,8 @@ var APP_DATA = {
           "text": "<span data-contrast=\"auto\" style=\"font-size: 11pt; line-height: 19.425px; font-family: Calibri, &quot;Calibri_EmbeddedFont&quot;, &quot;Calibri_MSFontService&quot;, sans-serif;\" xml:lang=\"EN-US\" class=\"TextRun SCXW122330529 BCX2\" lang=\"EN-US\"><span class=\"NormalTextRun SCXW122330529 BCX2\">W</span><span class=\"NormalTextRun SCXW122330529 BCX2\">ater is pumped out and to the heat exchanger from this tank. It also supplies the Mixing unit with water heated through heat recovery from the drains.&nbsp;</span></span>"
         },
         {
-          "yaw": -0.3268418969272737,
-          "pitch": 0.08208011987175823,
+          "yaw": -0.33845479811850687,
+          "pitch": -0.3934289554002106,
           "title": "Temperature Probe",
           "text": "A sensor that measures hot water temperature which is recorded in the monitoring station.&nbsp;"
         },
@@ -241,7 +247,7 @@ var APP_DATA = {
       ]
     }
   ],
-  "name": "Penrhyn Castle",
+  "name": "Penrhyn Castle 3-D Tour",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
