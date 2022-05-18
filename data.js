@@ -44,8 +44,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": -0.2627870782414625,
-          "pitch": -0.19029826063954403,
+          "yaw": -0.2651296139596582,
+          "pitch": -0.3583773143335982,
           "title": "Welcome",
           "text": "<div>Welcome to a virtual tour of the heat recovery system at the Penrhyn Castle Tearooms. This system serves as a showcase of the potential to recover heat from the high temperature wastewater produced in commercial kitchens that usually just goes down the drain. Recovering this heat will save money by reducing fuel use and will also reduce the greenhouse gas emissions associated with heating water.&nbsp;&nbsp;</div><div><br></div><div>To start with the tour, please make your way into the tearooms by clicking on the ^ sign near the window above you and to your left.&nbsp;&nbsp;<br></div><div><br></div><div>This project is a collaboration between Bangor University, Trinity College Dublin, and the National Trust. It was made possible due to the support the ERDF Interreg Ireland-Wales Programme 2014-2020, through the Dŵr Uisce Project.</div>"
         }
@@ -241,7 +241,7 @@ var APP_DATA = {
       ]
     }
   ],
-  "name": "Project Title",
+  "name": "Penrhyn Castle",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
