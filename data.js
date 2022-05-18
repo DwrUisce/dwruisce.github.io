@@ -146,8 +146,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": -0.058901937904453305,
-          "pitch": -0.4551858366958328,
+          "yaw": -0.046318194286737224,
+          "pitch": -0.23244003026117355,
           "title": "Heat Exchanger 1",
           "text": "<font face=\"Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif\"><span style=\"font-size: 14.6667px;\">The kitchen drain that was here has been replaced with an insulated copper heat exchanger. This heats up clean cold water that is pumped&nbsp; upwards through an outer copper pipe within which is another central large copper pipe, through which the drain water flows down. Only heat is transferred through the copper and heats up the cold water which is circulated from and back into the storage tank in the control room.</span></font><br><div><span data-contrast=\"auto\" style=\"font-size: 11pt; line-height: 19.425px; font-family: Calibri, &quot;Calibri_EmbeddedFont&quot;, &quot;Calibri_MSFontService&quot;, sans-serif;\" xml:lang=\"EN-US\" class=\"TextRun SCXW1634664 BCX2\" lang=\"EN-US\"><span class=\"NormalTextRun SCXW1634664 BCX2\"><br></span></span></div><div><span data-contrast=\"auto\" style=\"font-size: 11pt; line-height: 19.425px; font-family: Calibri, &quot;Calibri_EmbeddedFont&quot;, &quot;Calibri_MSFontService&quot;, sans-serif;\" xml:lang=\"EN-US\" class=\"TextRun SCXW1634664 BCX2\" lang=\"EN-US\"><span class=\"NormalTextRun SCXW1634664 BCX2\">Move around to continue the tour.</span></span></div>"
         },
@@ -158,8 +158,8 @@ var APP_DATA = {
           "text": "No demonstration is complete without an understanding of how well it works! This remote monitoring system collects data about the performance of the system for future research and improvements.<div><br></div><div>Click on the ^ button on the door to continue the tour.</div>"
         },
         {
-          "yaw": -0.22823644884445393,
-          "pitch": -0.21908552656599412,
+          "yaw": -0.20456292529506115,
+          "pitch": -0.49306100052504753,
           "title": "Heat Exchanger 2",
           "text": "A second heat exchanger which serves the same purpose as Heat Exchanger 1."
         }
@@ -253,7 +253,7 @@ var APP_DATA = {
       ]
     }
   ],
-  "name": "Penrhyn Castle Tour v3",
+  "name": "Penrhyn Castle Tour v3.5",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
