@@ -148,7 +148,7 @@ var APP_DATA = {
         {
           "yaw": -0.058901937904453305,
           "pitch": -0.4551858366958328,
-          "title": "Heat Exchanger",
+          "title": "Heat Exchanger 1",
           "text": "<font face=\"Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif\"><span style=\"font-size: 14.6667px;\">The kitchen drain that was here has been replaced with an insulated copper heat exchanger. This heats up clean cold water that is pumped&nbsp; upwards through an outer copper pipe within which is another central large copper pipe, through which the drain water flows down. Only heat is transferred through the copper and heats up the cold water which is circulated from and back into the storage tank in the control room.</span></font><br><div><span data-contrast=\"auto\" style=\"font-size: 11pt; line-height: 19.425px; font-family: Calibri, &quot;Calibri_EmbeddedFont&quot;, &quot;Calibri_MSFontService&quot;, sans-serif;\" xml:lang=\"EN-US\" class=\"TextRun SCXW1634664 BCX2\" lang=\"EN-US\"><span class=\"NormalTextRun SCXW1634664 BCX2\"><br></span></span></div><div><span data-contrast=\"auto\" style=\"font-size: 11pt; line-height: 19.425px; font-family: Calibri, &quot;Calibri_EmbeddedFont&quot;, &quot;Calibri_MSFontService&quot;, sans-serif;\" xml:lang=\"EN-US\" class=\"TextRun SCXW1634664 BCX2\" lang=\"EN-US\"><span class=\"NormalTextRun SCXW1634664 BCX2\">Move around to continue the tour.</span></span></div>"
         },
         {
@@ -156,6 +156,12 @@ var APP_DATA = {
           "pitch": -0.42722225771147926,
           "title": "Monitoring System",
           "text": "No demonstration is complete without an understanding of how well it works! This remote monitoring system collects data about the performance of the system for future research and improvements.<div><br></div><div>Click on the ^ button on the door to continue the tour.</div>"
+        },
+        {
+          "yaw": -0.22823644884445393,
+          "pitch": -0.21908552656599412,
+          "title": "Heat Exchanger 2",
+          "text": "A second heat exchanger which serves the same purpose as Heat Exchanger 1."
         }
       ]
     },
@@ -189,8 +195,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 2.611753057361403,
-          "pitch": -0.13812250730034492,
+          "yaw": 2.6094146613961993,
+          "pitch": -0.13810217751811216,
           "rotation": 0,
           "target": "2-cellar"
         }
@@ -203,8 +209,8 @@ var APP_DATA = {
           "text": "<span data-contrast=\"auto\" style=\"font-size: 11pt; line-height: 19.425px; font-family: Calibri, &quot;Calibri_EmbeddedFont&quot;, &quot;Calibri_MSFontService&quot;, sans-serif;\" xml:lang=\"EN-US\" class=\"TextRun SCXW122330529 BCX2\" lang=\"EN-US\"><span class=\"NormalTextRun SCXW122330529 BCX2\">W</span><span class=\"NormalTextRun SCXW122330529 BCX2\">ater is pumped out and to the heat exchanger from this tank. It also supplies the Mixing unit with water heated through heat recovery from the drains.&nbsp;</span></span>"
         },
         {
-          "yaw": -0.33845479811850687,
-          "pitch": -0.3934289554002106,
+          "yaw": -0.3235600346529477,
+          "pitch": 0.09228729771168354,
           "title": "Temperature Probe",
           "text": "A sensor that measures hot water temperature which is recorded in the monitoring station.&nbsp;"
         },
@@ -247,7 +253,7 @@ var APP_DATA = {
       ]
     }
   ],
-  "name": "Penrhyn Castle 3-D Tour",
+  "name": "Penrhyn Castle Tour v3",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
